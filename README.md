@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Irshad k👋
 
-<!--
-**Irshad-konnola/Irshad-konnola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in React & Next.js
 
-Here are some ideas to get you started:
+🚀 I build scalable, responsive, SEO-friendly web apps  
+💼 Open to freelance & full-time opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+React | Next.js | Tailwind CSS | JavaScript | REST APIs  
+
+### 📌 Featured Projects
+- Interior Design Website
+- Calorie calculator [Ai]
+- Personal Portfolio
+
+### 📫 Contact
+LinkedIn: https://www.linkedin.com/in/irshad-konnola-954516226
+Email: Irshadkonnola.dev@gmail.com
